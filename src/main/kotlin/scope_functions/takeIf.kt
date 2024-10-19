@@ -15,6 +15,7 @@ fun main() {
 }
 
 fun showExampleTakeUnless(listOfPerson: List<Person>) {
+    println("Exemplo de uso do takeUnless")
     listOfPerson.forEach {
         //Método takeUnless retorna o objeto se a condição for falsa, caso contrário retorna null
         //Método copy cria uma cópia do objeto com os valores passados como parâmetro
@@ -28,6 +29,7 @@ fun showExampleTakeUnless(listOfPerson: List<Person>) {
 fun showExampleTakeIf(listOfPerson: List<Person>) {
     //Método takeIf retorna o objeto se a condição for verdadeira, caso contrário retorna null
     //Método copy cria uma cópia do objeto com os valores passados como parâmetro
+    println("Exemplo de uso do takeIf")
     listOfPerson.forEach {
         val resultTakeIf = it.takeIf { it.address != null } ?: it.copy(address = ENDERECO_PADRAO)
         println(resultTakeIf)
