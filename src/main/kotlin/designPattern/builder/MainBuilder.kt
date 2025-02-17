@@ -1,9 +1,5 @@
 import org.example.designPattern.builder.ComputerBuilder
 
-// Importação da classe ComputerBuilder
-
-//TODO("Terminar de implementar os builders")
-
 // Função principal
 fun main() {
     // Criação de um novo objeto Computer usando o padrão Builder
