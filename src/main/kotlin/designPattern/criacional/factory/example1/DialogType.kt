@@ -1,4 +1,4 @@
-package designPattern.factory.example1
+package designPattern.criacional.factory.example1
 
 // Define uma enumeração DialogType para representar diferentes tipos de diálogos
 enum class DialogType {

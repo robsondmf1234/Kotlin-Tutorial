@@ -1,6 +1,6 @@
-package designPattern.strategy.example1.transportestrategy
+package designPattern.comportamentais.strategy.example1.transportestrategy
 
-import designPattern.strategy.example1.enuns.Priority
+import designPattern.comportamentais.strategy.example1.enuns.Priority
 
 // Definição da classe Aereo que implementa a interface TransporteStrategy
 class Aereo : TransporteStrategy {

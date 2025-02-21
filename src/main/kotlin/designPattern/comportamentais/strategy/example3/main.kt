@@ -1,4 +1,4 @@
-package designPattern.strategy.example3
+package designPattern.comportamentais.strategy.example3
 
 // Função principal do programa
 fun main() {

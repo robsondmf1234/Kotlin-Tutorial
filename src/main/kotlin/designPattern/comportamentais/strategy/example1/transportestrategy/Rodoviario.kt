@@ -1,7 +1,7 @@
-package strategy.transportestrategy
+package designPattern.comportamentais.strategy.example1.transportestrategy
 
-import designPattern.strategy.example1.enuns.Priority
-import designPattern.strategy.example1.transportestrategy.TransporteStrategy
+import designPattern.comportamentais.strategy.example1.enuns.Priority
+import designPattern.comportamentais.strategy.example1.transportestrategy.TransporteStrategy
 
 // Definição da classe Rodoviario que implementa a interface TransporteStrategy
 class Rodoviario() : TransporteStrategy {

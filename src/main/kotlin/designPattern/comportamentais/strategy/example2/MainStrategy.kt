@@ -1,6 +1,6 @@
-package org.example.designPattern.strategy.example2
+package designPattern.comportamentais.strategy.example2
 
-import org.example.designPattern.strategy.example2.strategy.*
+import designPattern.comportamentais.strategy.example2.strategy.*
 
 fun main() {
     //context

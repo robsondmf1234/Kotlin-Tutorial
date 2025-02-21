@@ -1,6 +1,6 @@
 package org.example.designPattern.factory.example1
 
-import designPattern.factory.example1.DialogType
+import designPattern.criacional.factory.example1.DialogType
 
 fun main() {
     // Cria uma lista mutável para armazenar os diálogos criados pela fábrica

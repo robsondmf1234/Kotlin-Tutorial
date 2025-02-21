@@ -1,7 +1,7 @@
-package org.example.designPattern.strategy.example1
+package designPattern.comportamentais.strategy.example1
 
-import designPattern.strategy.example1.enuns.Priority
-import designPattern.strategy.example1.transportestrategy.TransporteStrategy
+import designPattern.comportamentais.strategy.example1.enuns.Priority
+import designPattern.comportamentais.strategy.example1.transportestrategy.TransporteStrategy
 
 // Definição da classe FazerFrete
 class FazerFrete {

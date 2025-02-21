@@ -1,4 +1,4 @@
-package org.example.designPattern.strategy.example2.strategy
+package designPattern.comportamentais.strategy.example2.strategy
 
 class Video: Plataform {
     override fun play() {

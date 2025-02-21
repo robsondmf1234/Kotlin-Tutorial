@@ -1,9 +1,9 @@
-package org.example.designPattern.strategy.example1
+package designPattern.comportamentais.strategy.example1
 
-import designPattern.strategy.example1.enuns.Priority
-import designPattern.strategy.example1.transportestrategy.Aereo
-import strategy.transportestrategy.Maritimo
-import strategy.transportestrategy.Rodoviario
+import designPattern.comportamentais.strategy.example1.enuns.Priority
+import designPattern.comportamentais.strategy.example1.transportestrategy.Aereo
+import designPattern.comportamentais.strategy.example1.transportestrategy.Maritimo
+import designPattern.comportamentais.strategy.example1.transportestrategy.Rodoviario
 
 
 fun main() {
