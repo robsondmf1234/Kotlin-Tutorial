@@ -1,4 +1,4 @@
-package org.example.designPattern.builder
+package designPattern.criacional.builder
 
 // Definição da classe ComputerBuilder que será usada para construir um objeto Computer
 class ComputerBuilder {

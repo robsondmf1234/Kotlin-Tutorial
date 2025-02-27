@@ -1,4 +1,4 @@
-import org.example.designPattern.builder.ComputerBuilder
+import designPattern.criacional.builder.ComputerBuilder
 
 // Função principal
 fun main() {

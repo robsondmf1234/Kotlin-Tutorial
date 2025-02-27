@@ -1,4 +1,4 @@
-package org.example.designPattern.builder
+package designPattern.criacional.builder
 
 // Definição da classe Computer com propriedades privadas
 data class Computer(
