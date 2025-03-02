@@ -1,4 +1,4 @@
-package org.example.designPattern.factory.example2
+package designPattern.criacional.factory.example2
 
 sealed class Animal {
     object Dog : Animal()

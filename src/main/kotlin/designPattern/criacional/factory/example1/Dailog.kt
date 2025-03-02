@@ -1,4 +1,4 @@
-package org.example.designPattern.factory.example1
+package designPattern.criacional.factory.example1
 
 // Define a sealed class Dialog, which means all subclasses must be defined within this file
 sealed class Dialog {

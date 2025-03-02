@@ -1,4 +1,4 @@
-package org.example.designPattern.factory.example3
+package designPattern.criacional.factory.example3
 
 interface Car {
     fun drive()
