@@ -1,8 +1,8 @@
 package designPattern.criacional.factory.example2
 
 sealed class Animal {
-    object Dog : Animal()
-    object Cat : Animal()
+    data object Dog : Animal()
+    data object Cat : Animal()
 }
 
 fun animalFactory(type: String): Animal {
