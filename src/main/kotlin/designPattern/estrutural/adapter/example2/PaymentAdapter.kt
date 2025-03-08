@@ -1,7 +1,4 @@
-package org.example.designPattern.estrutural.adapter
-
-import designPattern.estrutural.adapter.NewPaymentProcessor
-import designPattern.estrutural.adapter.OldPaymentSystem
+package org.example.designPattern.estrutural.adapter.example2
 
 // Adapter que permite o novo sistema usar o sistema antigo
 class PaymentAdapter(private val oldPaymentSystem: OldPaymentSystem) : NewPaymentProcessor {

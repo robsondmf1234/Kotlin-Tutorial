@@ -40,7 +40,7 @@ interface PrintingStrategy {
 class SimplePrintingStrategy : PrintingStrategy {
     // Função execute que imprime a string fornecida, prefixada com "Simple: "
     override fun execute(text: String) {
-        println("Simple: $text")
+        println("Simple Printer: $text")
     }
 }
 
@@ -48,6 +48,6 @@ class SimplePrintingStrategy : PrintingStrategy {
 class ImprovedPrintingStrategy : PrintingStrategy {
     // Função execute que imprime a string fornecida, prefixada com "Improved: "
     override fun execute(text: String) {
-        println("Improved: $text")
+        println("Improved Printer: $text")
     }
 }

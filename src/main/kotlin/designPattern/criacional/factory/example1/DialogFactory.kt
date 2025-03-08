@@ -1,5 +1,6 @@
-package org.example.designPattern.factory.example1
+package designPattern.criacional.factory.example1
 
+import designPattern.criacional.factory.example1.Dialog
 import designPattern.criacional.factory.example1.DialogType
 
 // Define um objeto DialogFactory, que é um singleton

@@ -1,6 +1,4 @@
-package org.example.designPattern.estrutural.adapter
-
-import designPattern.estrutural.adapter.OldPaymentSystem
+package org.example.designPattern.estrutural.adapter.example2
 
 // Cliente que usa o novo sistema de pagamento
 fun main() {
