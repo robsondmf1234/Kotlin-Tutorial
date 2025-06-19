@@ -22,11 +22,10 @@ fun main() {
     //Filtrando a lista
     println(
         "Mostrando o numero do index 0: ${
-            lista.filterIndexed { index, number ->
-                index == 0
-            }
-        }"
-    )
+        lista.filterIndexed { index, number ->
+            index == 0
+        }
+    }")
 
     //Filtrando a lista com o numero que passamos como parametro
     println("Retorna uma lista ,exceto com a variavel que passamos no predicate EX: 1")
@@ -99,9 +98,7 @@ fun main() {
     println(".sortedDescending .Retorna a lista ordenada (maior para menor) :${randomNumbers.sortedDescending()}")
 
     val personList = listOf(
-        Person4(name = "John", age = 32),
-        Person4(name = "Marry", age = 25),
-        Person4(name = "Marlon", age = 45)
+        Person4(name = "John", age = 32), Person4(name = "Marry", age = 25), Person4(name = "Marlon", age = 45)
     )
     //Soma todas as idades dos objetos contido na lista
     println(personList.sumOf { person ->
@@ -113,7 +110,7 @@ fun main() {
     })
 
     //Ordena a lista de forma descendete pela idade
-    println(personList.sortedByDescending {  person ->
+    println(personList.sortedByDescending { person ->
         person.age
     })
 }
@@ -129,6 +126,5 @@ fun countNumberOnList(list: List<Int>, number: Int): Int {
 }
 
 data class Person4(
-    val name: String,
-    val age: Int
+    val name: String, val age: Int
 )
