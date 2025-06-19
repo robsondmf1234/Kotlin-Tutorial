@@ -2,7 +2,7 @@ package lists
 
 
 val systemUsers: MutableList<Int> = mutableListOf(1, 2, 3)
-val sudoers : List<Int> = systemUsers
+val sudoers: List<Int> = systemUsers
 
 //Demonstração do uso de list
 fun main() {
@@ -28,10 +28,10 @@ fun main() {
     //Filtrando a lista
     println(
         "Mostrando o numero do index 0: ${
-        lista.filterIndexed { index, number ->
-            index == 0
-        }
-    }")
+            lista.filterIndexed { index, number ->
+                index == 0
+            }
+        }")
 
     //Filtrando a lista com o numero que passamos como parametro
     println("Retorna uma lista ,exceto com a variavel que passamos no predicate EX: 1")
@@ -120,6 +120,7 @@ fun main() {
         person.age
     })
 }
+
 fun addSystemUser(newUser: Int) {
     //Adiciona um novo usuario na lista
     systemUsers.add(newUser)
