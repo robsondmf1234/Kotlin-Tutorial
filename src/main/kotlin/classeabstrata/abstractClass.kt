@@ -2,6 +2,7 @@ package classeabstrata
 
 fun main() {
 
+
 }
 
 //Classe abstrata não permite que sejam instanciadas.
