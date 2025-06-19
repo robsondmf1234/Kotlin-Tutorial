@@ -1,7 +1,13 @@
 package lists
 
+
+val systemUsers: MutableList<Int> = mutableListOf(1, 2, 3)
+val sudoers: List<Int> = systemUsers
+
 //Demonstração do uso de list
 fun main() {
+
+
     //List<> é uma lista imutavel
     val lista = listOf(1, 2, 3, 4, 35, 6, 7, 8, 29, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 1, 13)
     //Imprimindo a lista inteira
@@ -22,10 +28,10 @@ fun main() {
     //Filtrando a lista
     println(
         "Mostrando o numero do index 0: ${
-        lista.filterIndexed { index, number ->
-            index == 0
-        }
-    }")
+            lista.filterIndexed { index, number ->
+                index == 0
+            }
+        }")
 
     //Filtrando a lista com o numero que passamos como parametro
     println("Retorna uma lista ,exceto com a variavel que passamos no predicate EX: 1")
@@ -113,6 +119,16 @@ fun main() {
     println(personList.sortedByDescending { person ->
         person.age
     })
+}
+
+fun addSystemUser(newUser: Int) {
+    //Adiciona um novo usuario na lista
+    systemUsers.add(newUser)
+}
+
+fun getSystemUsers(): List<Int> {
+    //Retorna a lista de usuarios
+    return sudoers
 }
 
 fun countNumberOnList(list: List<Int>, number: Int): Int {
