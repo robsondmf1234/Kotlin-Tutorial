@@ -1,7 +1,7 @@
 package lists
 
 
-val systemUsers: MutableList<Int> = mutableListOf(1, 2, 3)
+private val systemUsers: MutableList<Int> = mutableListOf(1, 2, 3)
 val sudoers: List<Int> = systemUsers
 
 //Demonstração do uso de list
