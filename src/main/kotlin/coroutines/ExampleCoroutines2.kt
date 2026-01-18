@@ -3,7 +3,14 @@ package org.example.coroutines
 import kotlinx.coroutines.async
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.runBlocking
+import java.lang.System
+import java.util.logging.Level
+import java.util.logging.Logger
 import kotlin.system.measureTimeMillis
+
+private val logger: Logger = Logger.getLogger("org.example.coroutines.ExampleCoroutines2").apply {
+    level = Level.INFO
+}
 
 fun main() = runBlocking {
     // Inicia a execução do bloco de corrotinas
