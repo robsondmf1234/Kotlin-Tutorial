@@ -22,7 +22,7 @@ fun main() {
     println(lista.take(n = 3))
     println("Quatidade de numero 1 encontrado na lista foi :" + countNumberOnList(list = lista, number = 1))
 
-    //Filtrando a lista
+    //Filtrando a lista, mostar somente os numeros maiores que 5
     println("Lista filtrada: ${lista.filter { it > 5 }}")
 
     //Filtrando a lista

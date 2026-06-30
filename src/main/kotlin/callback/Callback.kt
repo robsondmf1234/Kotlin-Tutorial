@@ -6,9 +6,11 @@ fun main() {
     val number = 10
 
     // Chama a função de extensão isText no número, que verificará se é uma String e executará o callback
-    number.isText {
-        println(it)
-    }
+    // e lancara a exceção caso não seja uma String
+//    number.isText {
+//        println(it)
+//    }
+
     // Função que recebe um texto e uma função de callback
     text.imprimeTexto(texto = text) { texto ->
         println(texto)
