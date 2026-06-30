@@ -42,7 +42,7 @@ fun callBackInt(valuewChanged: (Int) -> Unit) {
     valuewChanged(randomInt)
 }
 
-// Função que gera um número aleatório e chama o callback com um objeto Person (Robson ou Douglas)
+// Função que gera um número  aleatório e chama o callback com um objeto Person (Robson ou Douglas)
 fun callBackPerson(valueChanged: (Person) -> Unit) {
     val randomInt = Random.nextInt(0, 10)
     val result = if (randomInt % 2 == 0) {
