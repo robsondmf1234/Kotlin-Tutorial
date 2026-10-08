@@ -1,6 +1,6 @@
 package `class`
 
-// Apresenta getters, setters e propriedades derivadas com regras de acesso.
+// Apresenta getters, setters e propriedades com regras de acesso.
 
 fun main() {
     val person = Person()
