@@ -1,5 +1,7 @@
 package designPattern.criacional.builder
 
+// Implementa o padrao Builder com API fluente para montar um computador.
+
 // Definição da classe ComputerBuilder que será usada para construir um objeto Computer
 class ComputerBuilder {
     // Inicialização das propriedades com valores padrão

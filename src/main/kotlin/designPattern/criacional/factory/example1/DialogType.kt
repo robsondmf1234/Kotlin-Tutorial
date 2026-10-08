@@ -1,5 +1,7 @@
 package designPattern.criacional.factory.example1
 
+// Lista os tipos aceitos pela fabrica de dialogos.
+
 // Define uma enumeração DialogType para representar diferentes tipos de diálogos
 enum class DialogType {
     // Constante de enumeração para criar um diálogo de chat

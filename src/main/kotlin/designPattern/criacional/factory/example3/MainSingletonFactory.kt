@@ -1,5 +1,7 @@
 package designPattern.criacional.factory.example3
 
+// Combina object e fabrica para criar carros a partir de um identificador.
+
 interface Car {
     fun drive()
 }

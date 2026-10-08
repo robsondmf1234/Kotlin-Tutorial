@@ -1,5 +1,7 @@
 package org.example.designPattern.criacional.factory.example5
 
+// Explora uma fabrica baseada em sealed class para criar veiculos.
+
 // Interface comum para todos os tipos de veículos
 interface Vehicle {
     fun drive()

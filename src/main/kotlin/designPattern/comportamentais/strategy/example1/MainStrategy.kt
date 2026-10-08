@@ -1,5 +1,7 @@
 package designPattern.comportamentais.strategy.example1
 
+// Executa o exemplo Strategy escolhendo a estrategia de transporte conforme a prioridade.
+
 import designPattern.comportamentais.strategy.example1.enuns.Priority
 import designPattern.comportamentais.strategy.example1.transportestrategy.Aereo
 import designPattern.comportamentais.strategy.example1.transportestrategy.Maritimo

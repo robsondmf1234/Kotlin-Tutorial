@@ -1,5 +1,7 @@
 package designPattern.criacional.factory.example1
 
+// Centraliza a criacao de dialogos a partir de um tipo informado.
+
 import designPattern.criacional.factory.example1.Dialog
 import designPattern.criacional.factory.example1.DialogType
 

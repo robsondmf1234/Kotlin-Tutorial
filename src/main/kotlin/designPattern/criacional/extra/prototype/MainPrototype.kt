@@ -1,5 +1,7 @@
 package designPattern.criacional.extra.prototype
 
+// Executa o exemplo de Prototype clonando documentos.
+
 import org.example.designPattern.criacional.extra.prototype.Document
 
 // Testando o Prototype

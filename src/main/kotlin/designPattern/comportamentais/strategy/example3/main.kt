@@ -1,5 +1,7 @@
 package designPattern.comportamentais.strategy.example3
 
+// Mostra Strategy com algoritmos de impressao intercambiaveis para o mesmo texto.
+
 // Função principal do programa
 fun main() {
 

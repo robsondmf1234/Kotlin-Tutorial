@@ -1,5 +1,7 @@
 package org.example.designPattern.criacional.singleton
 
+// Implementa um singleton simples que centraliza o acesso ao banco ficticio.
+
 // Define an object DatabaseManager, which is a singleton
 object DatabaseManager {
     // Initialization block that runs when the object is first accessed

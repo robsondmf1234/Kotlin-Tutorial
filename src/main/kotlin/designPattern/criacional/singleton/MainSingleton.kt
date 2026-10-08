@@ -1,5 +1,7 @@
 package org.example.designPattern.criacional.singleton
 
+// Executa o exemplo de singleton reutilizando a mesma instancia global.
+
 fun main() {
     // Chama o método conectar do DatabaseManager e armazena o resultado em conexao1
     val conexao1 = DatabaseManager.conectar()

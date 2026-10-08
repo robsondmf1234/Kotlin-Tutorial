@@ -1,5 +1,7 @@
 package `class`
 
+// Demonstra destructuring declarations a partir de uma data class.
+
 fun main() {
     // Cria um Pair (par de valores) com 1 e "Robson"
     val pair = Pair(first = 1, second = "Robson")

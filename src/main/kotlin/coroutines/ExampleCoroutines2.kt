@@ -1,5 +1,7 @@
 package org.example.coroutines
 
+// Compara tarefas assincronas executadas em paralelo com async e await.
+
 import kotlinx.coroutines.async
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.runBlocking

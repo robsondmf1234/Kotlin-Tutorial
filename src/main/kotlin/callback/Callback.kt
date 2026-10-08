@@ -1,5 +1,7 @@
 package org.example.callback
 
+// Exemplo de callback com funcao de extensao para executar uma acao depois de montar um texto.
+
 fun main() {
 
     val text = "Hello World!"

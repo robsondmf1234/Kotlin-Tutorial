@@ -1,5 +1,7 @@
 package org.example.designPattern.estrutural.adapter.example2
 
+// Executa o segundo exemplo de Adapter integrando um sistema legado.
+
 // Cliente que usa o novo sistema de pagamento
 fun main() {
     val oldSystem = OldPaymentSystem()   // Criamos a instância do sistema antigo

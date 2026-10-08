@@ -1,5 +1,7 @@
 package companionObject
 
+// Explica a diferenca entre membros de instancia e membros compartilhados em companion object.
+
 //Demonstração do uso de companion object
 //Tudo que fica dentro de bloco companion object vai ser visivel e acessivel a nivel de Classe,
 // não a nivel de instancia

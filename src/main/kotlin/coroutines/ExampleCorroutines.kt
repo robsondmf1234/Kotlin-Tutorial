@@ -1,5 +1,7 @@
 package org.example.coroutines
 
+// Executa funcoes suspensas em sequencia para comparar o custo do fluxo bloqueante.
+
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.runBlocking
 import kotlin.system.measureTimeMillis

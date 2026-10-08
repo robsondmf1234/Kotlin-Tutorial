@@ -1,3 +1,5 @@
+// Executa o exemplo de Builder criando um computador passo a passo.
+
 import designPattern.criacional.builder.ComputerBuilder
 
 // Função principal

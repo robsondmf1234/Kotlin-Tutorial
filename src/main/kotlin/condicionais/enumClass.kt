@@ -1,5 +1,7 @@
 package condicionais
 
+// Demonstra enum class, leitura de valores e propriedades calculadas por constante.
+
 //Demonstração do uso de Enum
 fun main() {
     //Recebendo um enum

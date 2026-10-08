@@ -1,4 +1,7 @@
 package upcastingEdownCasting
+
+// Mostra upcasting, downcasting e verificacao de tipo em tempo de execucao.
+
 //Demonstração de upcasting e downcasting.
 //uso do smartcast do koltin e filtragem por tipos de objetos
 fun main() {

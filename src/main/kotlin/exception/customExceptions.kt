@@ -1,5 +1,7 @@
 package exception
 
+// Demonstra try/catch e a criacao de excecoes customizadas para diferentes falhas.
+
 fun main() {
 //    errorCode2()
     testTryCatch()

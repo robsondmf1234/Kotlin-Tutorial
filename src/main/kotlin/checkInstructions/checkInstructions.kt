@@ -1,5 +1,7 @@
 package checkInstructions
 
+// Reune exemplos de require, requireNotNull e check para validar estado e argumentos.
+
 import java.io.File
 
 //Demonstração no uso de check functions em Kotlin

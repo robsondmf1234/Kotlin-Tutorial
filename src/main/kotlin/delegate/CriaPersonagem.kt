@@ -1,5 +1,7 @@
 package org.example.delegate
 
+// Contexto que delega a exibicao de um personagem para uma implementacao externa.
+
 class CriaPersonagem {
     // Cria um objeto Personagem com nome "Gandalf", raça "Humano", classe "Mago" e nível 20
     val personagem = Personagem("Gandalf", "Humano", "Mago", 20)
