@@ -1,6 +1,6 @@
 package org.example.callback.example2
 
-// Simula uma operacao assincrona que devolve sucesso ou erro por meio de uma interface de callback.
+// Demonstra callbacks de sucesso e erro por meio de uma interface.
 
 data class User(val name: String, val age: Int)
 
