@@ -1,5 +1,7 @@
 package br.com.alura.bytebank.modelo
 
+// Acumula bonificacoes de funcionarios para demonstrar polimorfismo.
+
 class CalculadoraBonificacao {
 
     var total: Double = 0.0

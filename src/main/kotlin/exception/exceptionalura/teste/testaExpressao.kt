@@ -1,5 +1,7 @@
 package teste
 
+// Mostra expressoes, escopo de variaveis e atribuicoes no estilo introdutorio do curso.
+
 fun testaExpressao() {
     val entrada: String = "1.9"
     val valorRecebido: Double? = try {

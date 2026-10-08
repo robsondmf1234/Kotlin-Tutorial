@@ -1,5 +1,7 @@
 package membersReferences
 
+// Explica referencias de membro e a equivalencia com lambdas explicitas.
+
 //Demonstração do uso de members references
 fun main() {
 

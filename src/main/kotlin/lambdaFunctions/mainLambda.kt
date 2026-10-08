@@ -1,5 +1,7 @@
 package org.example.lambdaFunctions
 
+// Agrupa callbacks em um handler para desacoplar eventos da acao executada.
+
 import kotlin.random.Random
 
 fun setStatus(name: String) {

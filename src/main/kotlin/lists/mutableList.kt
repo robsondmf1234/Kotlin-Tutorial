@@ -1,5 +1,7 @@
 package lists
 
+// Demonstra quando usar MutableList para inserir e remover elementos.
+
 //Demonstração do uso de list
 fun main() {
     //List<> é uma lista imutavel

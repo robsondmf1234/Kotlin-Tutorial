@@ -1,5 +1,7 @@
 package interfaces
 
+// Explica interfaces, implementacoes padrao e o uso de fun interface.
+
 //Demonstração do uso de interface
 //As properties de Interface não carrega estados
 fun main() {

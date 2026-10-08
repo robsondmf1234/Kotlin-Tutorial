@@ -1,5 +1,7 @@
 package org.example.scope_functions
 
+// Mostra o uso de let para trabalhar com valores nao nulos em um escopo curto.
+
 fun processNonNullString(str: String) {}
 
 fun main() {

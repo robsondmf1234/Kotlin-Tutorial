@@ -1,5 +1,7 @@
 package br.com.alura.bytebank.modelo
 
+// Centraliza operacoes de conta, autenticacao, transferencia e especializacoes de saque.
+
 import exception.exceptionalura.exceptionmodels.exception.FalhaAutenticacaoException
 import exception.exceptionalura.exceptionmodels.exception.SaldoInsuficienteException
 

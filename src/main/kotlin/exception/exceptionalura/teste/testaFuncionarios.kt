@@ -1,5 +1,7 @@
 package br.com.alura.bytebank.teste
 
+// Percorre a hierarquia de funcionarios e calcula suas bonificacoes.
+
 import br.com.alura.bytebank.modelo.*
 
 fun testaFuncionarios() {

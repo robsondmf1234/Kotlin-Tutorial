@@ -1,5 +1,7 @@
 package funcoes
 
+// Reune exemplos de funcoes, parametros nomeados, valores default e expression body.
+
 fun main() {
     sumOfTwoNumbers()
 

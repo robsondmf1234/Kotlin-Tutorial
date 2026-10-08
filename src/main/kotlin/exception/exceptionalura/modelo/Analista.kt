@@ -1,5 +1,7 @@
 package br.com.alura.bytebank.modelo
 
+// Representa o cargo de analista no dominio Bytebank com sua regra de bonificacao.
+
 class Analista(
     nome: String,
     cpf: String,

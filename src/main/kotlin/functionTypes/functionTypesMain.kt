@@ -1,5 +1,7 @@
 package org.example.functionTypes
 
+// Mostra tipos de funcao, referencias com :: e funcoes recebidas como parametro.
+
 //Código que demonstra uso de tipos funções
 fun main() {
 

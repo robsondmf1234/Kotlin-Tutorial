@@ -1,5 +1,6 @@
 package lists
 
+// Reune operacoes de criacao, consulta e transformacao em listas imutaveis.
 
 private val systemUsers: MutableList<Int> = mutableListOf(1, 2, 3)
 val sudoers: List<Int> = systemUsers

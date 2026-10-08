@@ -1,5 +1,6 @@
 package projetoFinal
 
+// Concentra o estado, as jogadas e a validacao do tabuleiro no jogo da velha final.
 
 object Board {
 

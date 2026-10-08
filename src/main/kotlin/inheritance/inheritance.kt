@@ -1,5 +1,7 @@
 package inheritance
 
+// Demonstra heranca, sobrescrita e extensoes aplicadas a uma hierarquia simples.
+
 //Demonstração do uso de Herança
 //
 fun main() {

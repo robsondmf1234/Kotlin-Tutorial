@@ -1,5 +1,7 @@
 package exception.exceptionalura
 
+// Exemplo isolado de uso de Any e sobrescrita de toString no projeto Exceptionalura.
+
 import br.com.alura.bytebank.modelo.Endereco
 
 fun testaAny() {

@@ -1,5 +1,7 @@
 package br.com.alura.bytebank.teste
 
+// Compara regras de saque entre conta corrente e conta poupanca.
+
 import br.com.alura.bytebank.modelo.Cliente
 import br.com.alura.bytebank.modelo.ContaCorrente
 import br.com.alura.bytebank.modelo.ContaPoupanca

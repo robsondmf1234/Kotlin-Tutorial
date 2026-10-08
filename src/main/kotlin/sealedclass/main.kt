@@ -1,5 +1,7 @@
 package sealedclass
 
+// Compara hierarquias abertas e sealed classes no controle exaustivo com when.
+
 fun main() {
     val bicycle = Bicycle(manufacturer = "Caloi")
     val car = Car(manufacturer = "Tesla", model = "model 3")

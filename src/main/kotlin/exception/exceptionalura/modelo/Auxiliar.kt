@@ -1,5 +1,7 @@
 package br.com.alura.bytebank.modelo
 
+// Representa o cargo de auxiliar e sua bonificacao no dominio Bytebank.
+
 class Auxiliar(
     nome: String,
     cpf: String,

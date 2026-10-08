@@ -1,5 +1,7 @@
 package br.com.alura.bytebank.modelo
 
+// Representa o diretor com bonificacao e participacao nos lucros.
+
 class Diretor(
     nome: String,
     cpf: String,

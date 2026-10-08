@@ -1,5 +1,7 @@
 package nullatype
 
+// Introduce tipos anulaveis e o fluxo seguro para lidar com null.
+
 fun main() {
     val map = mapOf(1 to "One")
     val result = map[2]

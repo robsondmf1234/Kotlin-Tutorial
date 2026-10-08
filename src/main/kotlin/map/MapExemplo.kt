@@ -1,5 +1,7 @@
 package org.example.map
 
+// Mostra diferentes usos de Map e transformacoes a partir de listas de objetos.
+
 fun main() {
     println("Exemplo de Map em Kotlin")
     println("1 Exemplo")

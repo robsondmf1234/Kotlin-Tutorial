@@ -1,5 +1,7 @@
 package br.com.alura.bytebank.modelo
 
+// Especializa funcionario autenticavel para cargos administrativos.
+
 abstract class FuncionarioAdmin(
     nome: String,
     cpf: String,

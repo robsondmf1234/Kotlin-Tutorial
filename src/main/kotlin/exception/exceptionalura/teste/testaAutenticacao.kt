@@ -1,5 +1,7 @@
 package exception.exceptionalura.teste
 
+// Exercita o fluxo de autenticacao entre gerente, diretor e cliente.
+
 import br.com.alura.bytebank.modelo.Cliente
 import br.com.alura.bytebank.modelo.Diretor
 import br.com.alura.bytebank.modelo.Gerente

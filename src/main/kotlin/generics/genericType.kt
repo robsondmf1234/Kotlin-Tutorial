@@ -1,5 +1,7 @@
 package generics
 
+// Compara uma implementacao generica com outra fortemente tipada.
+
 fun main() {
 
     val car = Car(tires = Tires(size = 17))

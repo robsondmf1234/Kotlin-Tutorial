@@ -1,5 +1,7 @@
 package variaveis
 
+// Apresenta declaracao de variaveis, mutabilidade e inferencia de tipo em Kotlin.
+
 fun main() {
     val number = 5
     //Pode caber até 15 digitos ,após o ponto decimal

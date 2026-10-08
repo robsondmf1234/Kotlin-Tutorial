@@ -1,5 +1,7 @@
 package `object`
 
+// Apresenta object declarations, singleton e estado compartilhado entre chamadas.
+
 //Demonstração do uso de Object
 //Object é utilizado quando , precisamos ter uma instancia só de um objeto , durante o uso do software
 // Dessign Petter Singleton, quando um objeto é custoso de ser criado ou quando faz o sentido mantermos uma unica

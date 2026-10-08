@@ -1,5 +1,7 @@
 package lambda
 
+// Introduz a sintaxe basica de lambdas e formas de invocacao.
+
 fun main() {
     println("Test")
 

@@ -1,5 +1,7 @@
 package lists
 
+// Mostra reduce, fold, foldRight e variantes acumuladoras em listas.
+
 fun main() {
 
     fold()

@@ -1,5 +1,7 @@
 package strings
 
+// Reune exemplos de manipulacao de strings, interpolacao e validacao simples.
+
 //String template
 fun main() {
     val number = 10

@@ -1,5 +1,7 @@
 package lists
 
+// Explora operacoes de map e transformacoes de colecoes e dicionarios.
+
 import `class`.Person2
 
 //Demonstração do uso de Map

@@ -1,5 +1,7 @@
 package generics
 
+// Explica funcoes genericas, classes genericas e a diferenca para Any.
+
 fun main() {
 
     val vehicle = Vehicle(value = Carro())
