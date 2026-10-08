@@ -1,4 +1,4 @@
-package org.example.callback.example2
+package org.example.callback
 
 // Demonstra callbacks de sucesso e erro por meio de uma interface.
 
