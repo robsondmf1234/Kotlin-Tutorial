@@ -1,5 +1,7 @@
 package org.example.lists
 
+// Apresenta iteracao com for sobre colecoes Kotlin.
+
 // Cria uma lista imutável de frutas
 val listFruits = listOf("Apple", "Banana", "Orange", "Strawberry")
 

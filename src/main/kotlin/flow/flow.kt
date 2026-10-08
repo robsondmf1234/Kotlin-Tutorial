@@ -1,5 +1,7 @@
 package org.example.flow
 
+// Introduz Flow emitindo linguagens de programacao com atraso entre cada valor.
+
 import kotlinx.coroutines.delay          // Importa a função delay para simular operações assíncronas
 import kotlinx.coroutines.flow.Flow      // Tipo Flow para trabalhar com fluxos reativos
 import kotlinx.coroutines.flow.collect   // Função para coletar os valores emitidos por um Flow

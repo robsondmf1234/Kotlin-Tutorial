@@ -1,5 +1,7 @@
 package br.com.alura.bytebank.teste
 
+// Explica a diferenca entre copiar referencias e compartilhar o mesmo objeto.
+
 import br.com.alura.bytebank.modelo.Cliente
 import br.com.alura.bytebank.modelo.ContaCorrente
 import br.com.alura.bytebank.modelo.ContaPoupanca

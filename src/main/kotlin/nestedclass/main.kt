@@ -1,5 +1,7 @@
 package nestedclass
 
+// Compara nested classes e a organizacao de tipos relacionados dentro de uma classe.
+
 //Demonstração de classe aninhada
 fun main() {
 

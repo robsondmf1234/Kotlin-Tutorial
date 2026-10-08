@@ -1,5 +1,7 @@
 package nullatype
 
+// Mostra safe call e operador Elvis para tratar null sem ifs aninhados.
+
 fun main() {
     getName(name = "Robson")
     getName(name = null)

@@ -1,5 +1,7 @@
 package lists
 
+// Mostra como combinar e separar listas usando zip e unzip.
+
 fun main() {
     val first = listOf("a", "b", "c", "d")
     val second = listOf(1, 2, 3, 4)

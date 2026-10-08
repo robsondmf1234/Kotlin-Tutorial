@@ -1,5 +1,7 @@
 package br.com.alura.bytebank.modelo
 
+// Modelo de cliente bancario que tambem pode ser autenticado.
+
 class Cliente(
     var nome: String,
     val cpf: String,

@@ -1,5 +1,7 @@
 package exception
 
+// Explora tratamento de erros com retorno nulo, erro explicito e validacao por excecao.
+
 //Demonstração do uso de Exceptions
 //Lancamento de Exceptions em funções
 fun main() {

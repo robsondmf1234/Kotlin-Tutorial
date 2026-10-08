@@ -1,5 +1,7 @@
 package lists
 
+// Explica parametros vararg e como percorrer os valores recebidos.
+
 //Demonstração no uso de varargs
 fun main() {
 

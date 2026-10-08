@@ -1,5 +1,7 @@
 package br.com.alura.bytebank.teste
 
+// Explora object expressions e objetos nomeados dentro do dominio Bytebank.
+
 import br.com.alura.bytebank.modelo.*
 
 fun testaObjects() {

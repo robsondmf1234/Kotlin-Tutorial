@@ -1,5 +1,7 @@
 package repeticoes
 
+// Reune exemplos de laco, contagem e iteracao sobre textos.
+
 //Exercicio para mostrar letra a letra , a partir de uma palavra passada como parametro
 fun main() {
 

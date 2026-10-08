@@ -1,3 +1,5 @@
+// Exemplo simples de propagacao de excecoes entre funcoes encadeadas.
+
 import exception.exceptionalura.teste.testaComportamentosConta
 import exception.exceptionalura.exceptionmodels.exception.SaldoInsuficienteException
 

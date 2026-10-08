@@ -1,5 +1,7 @@
 package br.com.alura.bytebank.teste
 
+// Treina estruturas de repeticao aplicadas ao contexto bancario.
+
 fun testaLacos() {
     var i = 0
     while (i < 5) {

@@ -1,5 +1,7 @@
 package `object`
 
+// Complementa o exemplo de object reutilizando o singleton declarado em outro arquivo.
+
 fun main() {
 
 

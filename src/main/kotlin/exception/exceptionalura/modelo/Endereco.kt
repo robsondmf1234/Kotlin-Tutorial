@@ -1,5 +1,7 @@
 package br.com.alura.bytebank.modelo
 
+// Modela o endereco usado nos exemplos do dominio Bytebank.
+
 class Endereco(
     var logradouro: String = "",
     var numero: Int = 0,

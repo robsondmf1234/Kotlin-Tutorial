@@ -1,5 +1,7 @@
 package init
 
+// Mostra o uso do bloco init para executar validacoes e configuracoes na criacao do objeto.
+
 fun main() {
     val person = Person5(name = "Robson")
     //Inicializando a classe ,chamado o segundo construtor

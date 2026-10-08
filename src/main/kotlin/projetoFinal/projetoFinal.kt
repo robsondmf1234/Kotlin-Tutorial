@@ -1,5 +1,7 @@
 package projetoFinal
 
+// Ponto de entrada que encadeia as rodadas do jogo da velha contra a CPU.
+
 import projetoFinal.Board.perguntaNome
 import projetoFinal.Board.showBoardEmpty
 

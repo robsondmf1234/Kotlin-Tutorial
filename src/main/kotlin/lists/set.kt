@@ -1,5 +1,7 @@
 package lists
 
+// Apresenta Set como colecao sem duplicidade e suas operacoes basicas.
+
 //Demonstração do uso de Set
 //Set não permite que numeros repetidos sejam inseridos
 fun main() {

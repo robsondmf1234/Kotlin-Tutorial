@@ -1,5 +1,7 @@
 package localfunctions
 
+// Demonstra funcoes locais e extensoes declaradas dentro de um escopo.
+
 import java.lang.StringBuilder
 
 //Local functions são funções criada dentro de outra função

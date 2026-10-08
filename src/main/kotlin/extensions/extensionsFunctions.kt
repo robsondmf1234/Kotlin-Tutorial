@@ -1,5 +1,7 @@
 package extensions
 
+// Demonstra extension functions aplicadas a String e a uma classe de dominio.
+
 //Demonstração do uso de extensions functions
 
 fun main() {

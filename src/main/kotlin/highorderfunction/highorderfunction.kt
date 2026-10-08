@@ -1,5 +1,7 @@
 package highorderfunction
 
+// Apresenta higher-order functions recebendo lambdas para personalizar o comportamento.
+
 //Demonstração de High-Order-Functions
 //São funções que aceitam outras funções ou lambdas como parametros
 fun main() {

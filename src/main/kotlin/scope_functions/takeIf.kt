@@ -1,5 +1,7 @@
 package org.example.scope_functions
 
+// Demonstra takeIf e takeUnless para filtrar objetos antes de continuar o fluxo.
+
 //Exemplo de uso do takeIf
 //val result = personWithAddressNull.takeIf { it.address != null } ?: personWithAddressNull.copy(address = ENDERECO_PADRAO)
 // println(result) //Imprime o result que será o objeto personWithAddressNull com o endereço padrão preenchido, caso o endereço seja nulo

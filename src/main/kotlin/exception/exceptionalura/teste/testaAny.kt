@@ -1,5 +1,7 @@
 package br.com.alura.bytebank.teste
 
+// Mostra como Any permite tratar valores de tipos diferentes no Bytebank.
+
 import br.com.alura.bytebank.modelo.Endereco
 
 fun testaAny() {

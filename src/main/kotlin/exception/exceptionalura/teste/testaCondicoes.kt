@@ -1,5 +1,7 @@
 package br.com.alura.bytebank.teste
 
+// Demonstra condicionais simples usando um saldo como entrada.
+
 fun testaCondicoes(saldo: Double) {
     if (saldo > 0.0) {
         println("conta é positiva")

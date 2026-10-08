@@ -1,5 +1,7 @@
 package lambda
 
+// Aplica lambdas em um exercicio de agregacao sobre colecoes.
+
 fun main() {
     println("Test")
 

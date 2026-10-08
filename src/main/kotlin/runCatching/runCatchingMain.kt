@@ -1,5 +1,7 @@
 package org.example.runCatching
 
+// Explora runCatching em cenarios de divisao, IO, conversao e acesso a lista.
+
 // Demonstração do uso de runCatching em Kotlin
 fun main() {
 

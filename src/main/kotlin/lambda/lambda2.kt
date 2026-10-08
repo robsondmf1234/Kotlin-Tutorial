@@ -1,5 +1,7 @@
 package lambda
 
+// Expande o uso de lambdas com extensoes customizadas e callbacks parametrizados.
+
 import kotlin.random.Random
 
 fun main() {
