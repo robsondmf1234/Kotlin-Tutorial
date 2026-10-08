@@ -1,5 +1,7 @@
 package designPattern.criacional.factory.example1
 
+// Executa o primeiro exemplo de Simple Factory validando os diálogos criados.
+
 fun main() {
     // Cria uma lista mutável para armazenar os diálogos criados pela fábrica
     val listFactory = mutableListOf<Dialog>()

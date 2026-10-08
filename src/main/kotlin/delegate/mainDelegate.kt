@@ -1,5 +1,6 @@
 package org.example.delegate
 
+// Executa o exemplo de delegate conectando o contexto ao comportamento delegado.
 
 fun main() {
     // Cria uma instância de CriaPersonagem

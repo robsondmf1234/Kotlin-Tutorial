@@ -1,5 +1,7 @@
 package org.example.coroutines
 
+// Mostra uma coroutine em background trocando de contexto para executar trabalho de IO.
+
 import kotlinx.coroutines.*
 
 fun main() {

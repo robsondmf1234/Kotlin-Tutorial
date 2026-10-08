@@ -1,5 +1,7 @@
 package designPattern.comportamentais.strategy.example1.transportestrategy
 
+// Implementa a estrategia de transporte aereo no exemplo de frete.
+
 import designPattern.comportamentais.strategy.example1.enuns.Priority
 
 // Definição da classe Aereo que implementa a interface TransporteStrategy

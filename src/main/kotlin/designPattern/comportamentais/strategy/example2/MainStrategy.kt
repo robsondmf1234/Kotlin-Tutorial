@@ -1,5 +1,7 @@
 package designPattern.comportamentais.strategy.example2
 
+// Executa o segundo exemplo de Strategy trocando a plataforma de reproducao.
+
 import designPattern.comportamentais.strategy.example2.strategy.*
 
 fun main() {

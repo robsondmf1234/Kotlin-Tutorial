@@ -1,5 +1,7 @@
 package unityTests
 
+// Modelo simples de chave liga/desliga usado para exercitar testes de estado.
+
 sealed class State {
     object On : State()
     object Off : State()

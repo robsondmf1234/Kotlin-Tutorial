@@ -1,5 +1,7 @@
 package org.example.delegate
 
+// Modelo de dados usado no exemplo de delegate.
+
 data class Personagem(
     // Nome do personagem
     val nome: String,

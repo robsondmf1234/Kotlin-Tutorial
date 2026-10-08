@@ -1,5 +1,6 @@
 package composition
 
+// Mostra composicao e segregacao de responsabilidades entre contratos e implementacoes.
 
 //Demonstração do us de composition em comparação ao uso de interface
 

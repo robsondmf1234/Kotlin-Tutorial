@@ -1,5 +1,7 @@
 package `class`
 
+// Mostra como declarar e usar construtores secundarios em classes Kotlin.
+
 fun main() {
     val person = Person5(name = "Robson")
     val person2 = Person5(name = "Robson", age = 35)

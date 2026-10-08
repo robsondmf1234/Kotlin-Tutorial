@@ -1,5 +1,7 @@
 package org.example.callback.example2
 
+// Demonstra callbacks de sucesso e erro por meio de uma interface.
+
 data class User(val name: String, val age: Int)
 
 // Define uma interface com um método de callback

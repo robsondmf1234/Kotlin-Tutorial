@@ -1,5 +1,7 @@
 package `class`
 
+// Compara classes comuns e data classes, destacando os recursos gerados automaticamente.
+
 fun main() {
     val person = Person2(name = "Robson", age = 35)
     val person2 = person.copy(age = 30)

@@ -1,5 +1,7 @@
 package org.example.designPattern.estrutural.decorator.example2
 
+// Executa o segundo exemplo de Decorator combinando compressao e criptografia.
+
 // Testando o padrão Decorator
 fun main() {
     val message = SimpleMessage()  // Mensagem simples

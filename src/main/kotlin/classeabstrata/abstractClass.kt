@@ -1,5 +1,7 @@
 package classeabstrata
 
+// Contrasta classes abstratas e interfaces em exemplos de heranca e implementacao.
+
 fun main() {
 
 

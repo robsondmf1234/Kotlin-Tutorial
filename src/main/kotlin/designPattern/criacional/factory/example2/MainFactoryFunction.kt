@@ -1,5 +1,7 @@
 package designPattern.criacional.factory.example2
 
+// Mostra uma fabrica implementada como funcao para escolher subtipos de Animal.
+
 sealed class Animal {
     data object Dog : Animal()
     data object Cat : Animal()

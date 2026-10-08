@@ -1,5 +1,7 @@
 package designPattern.criacional.factory.example4
 
+// Usa uma classe fabrica para instanciar tipos diferentes de pizza.
+
 // Define a classe PizzaFactory
 class PizzaFactory {
     // Função para criar uma pizza com base no tipo fornecido

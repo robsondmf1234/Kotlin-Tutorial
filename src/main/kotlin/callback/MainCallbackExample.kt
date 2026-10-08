@@ -1,5 +1,7 @@
 package org.example.callback
 
+// Demonstra callbacks tipados para String, Int e objetos personalizados.
+
 import kotlin.random.Random
 
 fun main() {

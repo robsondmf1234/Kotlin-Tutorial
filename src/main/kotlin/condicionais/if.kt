@@ -1,5 +1,7 @@
 package `if`
 
+// Reune exemplos simples de if como controle de fluxo e como expressao.
+
 fun main() {
 
     ageRestriction(118, "Male")

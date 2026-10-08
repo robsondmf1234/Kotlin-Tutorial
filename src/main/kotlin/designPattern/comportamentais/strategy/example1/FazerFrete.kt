@@ -1,5 +1,7 @@
 package designPattern.comportamentais.strategy.example1
 
+// Contexto do exemplo Strategy que delega a execucao do frete para uma estrategia de transporte.
+
 import designPattern.comportamentais.strategy.example1.enuns.Priority
 import designPattern.comportamentais.strategy.example1.transportestrategy.TransporteStrategy
 

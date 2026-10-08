@@ -1,5 +1,7 @@
 package designPattern.comportamentais.strategy.example1.transportestrategy
 
+// Implementa a estrategia de transporte maritimo no exemplo de frete.
+
 import designPattern.comportamentais.strategy.example1.enuns.Priority
 import designPattern.comportamentais.strategy.example1.transportestrategy.TransporteStrategy
 

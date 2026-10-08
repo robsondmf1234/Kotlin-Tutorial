@@ -1,5 +1,6 @@
 package org.example.designPattern.estrutural.decorator.example1
 
+// Executa o primeiro exemplo de Decorator empilhando responsabilidades.
 
 // Função principal para demonstrar o uso da interface Coffee e suas implementações
 fun main() {

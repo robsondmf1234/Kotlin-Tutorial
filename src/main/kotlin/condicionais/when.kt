@@ -1,5 +1,7 @@
 package condicionais
 
+// Explora o uso de when com tipos, expressoes e sealed classes.
+
 import kotlin.random.Random
 
 //Demonstração do uso do when

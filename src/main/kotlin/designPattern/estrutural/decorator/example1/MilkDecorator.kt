@@ -1,5 +1,6 @@
 package org.example.designPattern.estrutural.decorator.example1
 
+// Decorator que acrescenta leite ao custo e a descricao do cafe.
 
 // Define a classe MilkDecorator que implementa a interface Coffee e adiciona funcionalidade a um objeto Coffee existente
 class MilkDecorator(private val coffee: Coffee) : Coffee {
