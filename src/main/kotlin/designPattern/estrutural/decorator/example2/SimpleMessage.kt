@@ -1,5 +1,7 @@
 package org.example.designPattern.estrutural.decorator.example2
 
+// Implementacao simples que envia a mensagem sem alteracoes extras.
+
 // Implementação concreta de envio de mensagem simples
 class SimpleMessage : Message {
     override fun send(content: String) {
